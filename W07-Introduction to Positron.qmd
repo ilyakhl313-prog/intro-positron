@@ -1,0 +1,30 @@
+---
+
+title: "W07-Reflection Essay – Introduction to Positron"
+author: "Ilya Khanal"
+date: "`r format(Sys.time())`"
+format: 
+  html:
+    toc: true
+    toc-depth: 4
+    toc-expand: true
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    theme: cosmo
+editor: visual
+execute: 
+    freeze: auto
+---
+
+## **Q1**
+
+Compared to R and R studio, I think Positron has a more advanced and organized interface that is easier to navigate compared to R.  Its visual style code studio feels easier to work with as well and supports multiple languages like Python and Quarto.  
+
+## **Q2**
+
+Some ways AI can be integrated inside Positron is by using it for code completion and suggestions, explaining already existing code, generating example code, debugging and defactoring, as well as writing quarto comments.  Some AI tools avaliable are Github Copilot, Copilot Chat, as well as some other LM tools.  I was unable to download or utilize AI tools within Positron because of issues logging in with my school account and have not had any experiences with AI usage on Positron and how it can impact my work.
+
+
+
+
